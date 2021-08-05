@@ -19,10 +19,16 @@ dependencies:
   cached_network_image: ^3.1.0
   youtube_player_flutter: ^8.0.0
   intl: ^0.17.0
-  
+
 dev_dependencies:
+  flutter_launcher_icons: ^0.9.1
   flutter_test:
     sdk: flutter
+
+flutter_icons:
+  android: "launcher_icon"
+  ios: true
+  image_path: "assets/icon/icon.png"
 
 flutter:
   uses-material-design: true
