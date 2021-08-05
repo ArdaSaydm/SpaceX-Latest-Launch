@@ -13,8 +13,8 @@ In this project, I consumed the SpaceX Launches API. You can consume this api on
 Use this endpoint to see all the launches: https://api.spacexdata.com/v4/launches
 
 
-### App Screenshot
+### App Screenshots
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/48257662/128417281-de59f6cd-fc95-4790-8321-07604ecb3dea.jpg" width="400">
+  <img src="https://user-images.githubusercontent.com/48257662/128417757-033c3f39-ea80-4ddc-b3b3-c75568762920.jpeg" width="200">
 </p>
