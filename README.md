@@ -15,3 +15,6 @@ Use this endpoint to see all the launches: https://api.spacexdata.com/v4/launche
 
 ### App Screenshot
 
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/48257662/128417281-de59f6cd-fc95-4790-8321-07604ecb3dea.jpg" width="400">
+</p>
